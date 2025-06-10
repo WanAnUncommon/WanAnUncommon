@@ -5,7 +5,7 @@
 
 也许你需要：
 
-- 我的简历：<a href="https://laoyujianli.com/share/xeN8Z2" target="_blank">Java求职简历</a>
+- 我的简历：<a href="https://laoyujianli.com/share/xeN8Z2">Java求职简历</a>
 - 我的博客：<a href="http://123.57.154.213/" target="_blank">WanAn's Space</a>
 - 我的CSDN：<a href="https://blog.csdn.net/Uncommen" target="_blank">Uncommen CSDN</a>
 - 我的Gitee：<a href="https://gitee.com/Uncommen" target="_blank">Uncommen Gitee</a>
